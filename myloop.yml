@@ -4,7 +4,7 @@
   tasks:
   - name: install multi package
     apt:
-      name: "*{{ item }}*"
+      name: "{{ item }}"
       staste: present
     loop:
      - git 
