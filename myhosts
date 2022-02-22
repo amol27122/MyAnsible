@@ -16,6 +16,6 @@
 [myRedHatserver]
 172.31.39.29
 
-[mywebserver:veriables]
-mywebpackageforununtu= apache2222222222
-mywebpackageforRedHat= httpd
+[mywebserver:vars]
+mwvarubuntu= apache2
+myvarRedHat= httpd
