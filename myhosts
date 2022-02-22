@@ -16,6 +16,3 @@
 [myRedHatserver]
 172.31.39.29
 
-[mywebserver:vars]
-mwvarubuntu= apache2
-myvarRedHat= httpd
