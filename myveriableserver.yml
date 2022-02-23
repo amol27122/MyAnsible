@@ -1,5 +1,5 @@
 ---
-- hosts: mywebserver
+- hosts: myveriableserver
   become: yes
   tasks:
   - name: i want to install webserver on ansible ubuntu nodes
