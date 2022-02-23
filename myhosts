@@ -17,5 +17,5 @@
 172.31.39.29
 
 [mywebserver:vars]
-myubuntu= apache224563254
+myubuntu= apache2
 myredhar= httpd
