@@ -18,4 +18,4 @@
 
 [mywebserver:vars]
 myubuntu= apache2
-myredhat= httpd 
+myredhat= httpd
