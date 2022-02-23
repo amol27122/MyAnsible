@@ -16,6 +16,6 @@
 [myRedHatserver]
 172.31.39.29
 
-[myveriableserver:vars]
+[mywebserver:vars]
 myubuntu= apache224563254
 myredhar= httpd
