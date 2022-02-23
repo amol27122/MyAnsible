@@ -21,7 +21,7 @@
       state: present
     when: ansible_os_family =="RedHat"
 
-  - name: i want to start my my webserver on RedHat ansible nodes
+  - name: i want to start my webserver on RedHat ansible nodes
     service:
       name: "{{myredhar}}"
       state: started
