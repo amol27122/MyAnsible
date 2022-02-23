@@ -1,6 +1,0 @@
----
-mwvarubuntu: apache2
-myvarRedHat: httpd
-
-myjavaubuntu: openjdk-8-jre
-myjavaRedHat: java-1.8.0-openjdk
