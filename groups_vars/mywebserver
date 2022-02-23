@@ -1,6 +1,3 @@
 ---
 myubuntu: apache2
-myredhat: httpd
-
-myjavapackageforubuntu: openjdk-8-jre
-myjavapackageforredhet: java-1.8.0-openjdk
+myredhat: httpd 
