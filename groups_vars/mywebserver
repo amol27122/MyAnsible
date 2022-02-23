@@ -1,6 +1,3 @@
 ---
-myubuntu: apache2522145
+myubuntu: apache2
 myredhar: httpd
-
-myjavaforubuntu: openjdk-8-jre
-myjavaforRedHat: java-1.8.0-openjdk
