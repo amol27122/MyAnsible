@@ -6,7 +6,7 @@
     apt:
       name: "{{myjavaubuntu}}"
       state: present
-    when: ansible_os_famly =="Debian" 
+    when: ansible_os_family =="Debian" 
 
   - name: install java on redhat nodes
     yum:
