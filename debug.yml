@@ -9,6 +9,7 @@
   - name: i want to  display my first test result 
     debug:
        msg: "{{myresult}}"
+       
   - name: i want to install git
     apt: 
       name: git
