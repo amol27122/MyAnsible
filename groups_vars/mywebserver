@@ -2,5 +2,5 @@
 myjavapackageforubuntu: openjdk-8-jre
 myjavapackageforredhat: java-1.8.0-openjdk
 
-serverubuntu: apache2
-serverredhat: httpd
+myubuntuserver: apache2
+myredhatserver: httpd
