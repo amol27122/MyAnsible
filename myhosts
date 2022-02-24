@@ -16,6 +16,3 @@
 [myRedHatserver]
 172.31.39.29
 
-[mywebserver:vars]
-myjavapackageforubuntu= openjdk-8-jre
-myjavapackageforredhat= java-1.8.0-openjdk
