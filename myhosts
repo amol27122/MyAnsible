@@ -17,5 +17,5 @@
 172.31.39.29
 
 [mywebserver=vars]
-myjavaforubuntu= openjdk-8-jre
-myjavaforredhat= java-1.8.0-openjdk
+myubuntuserver= apache2
+myredhatserver= httpd
