@@ -1,5 +1,5 @@
 ---
-- hosts: 172.31.39.29
+- hosts: 172.31.47.193
   become: yes
   tasks: 
   - name: i want to execute linux commands
@@ -9,7 +9,7 @@
   - name: i want to  display my first test result 
     debug:
        msg: "{{myresult}}"
-       
+
   - name: i want to install git
     apt: 
       name: git
