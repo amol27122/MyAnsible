@@ -1,0 +1,8 @@
+--- 
+- hosts:
+  become: yes
+  tasks:
+  - name: create file on ansible ubuntu node  
+    file:
+      path: /home/ubuntu/mytextfile
+      state: touch
