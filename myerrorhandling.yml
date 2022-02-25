@@ -11,7 +11,7 @@
     apt:
       name: tree
       statsdfdse: present
-
+    ignore_errors: yes
 
   - name: wget
     apt:
