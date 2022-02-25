@@ -10,7 +10,7 @@
   - name: install tree
     apt:
       name: tree
-      statsdfdse: present
+      state: present
     ignore_errors: yes
 
   - name: wget
