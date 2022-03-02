@@ -1,0 +1,6 @@
+--- 
+- name: deplay java application 
+  get_url:
+    url: 
+    dest: /opt/tpmcat/webapps
+    force_basic_auth: yes
