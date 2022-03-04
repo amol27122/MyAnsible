@@ -1,2 +1,6 @@
 ---
 # tasks file for mytomrole
+
+- include_tasks: myInstallJava.yml
+- include_tasks: myTomcatUser.yml
+- include_tasks: myInstallTomcat.yml

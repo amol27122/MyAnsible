@@ -1,0 +1,9 @@
+---  
+- name: update your apt-get package
+  apt:
+    update_cache: yes
+
+- name: install Java Development Kit package
+  apt:
+    name: default-jdk
+    state: present
